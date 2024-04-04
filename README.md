@@ -14,10 +14,10 @@
     <img alt="LeetCode" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsujithkaluva&logo=leetcode&logoColor=yellow">
   </a>
 <br/>
-- 👋 Hi, I’m Sujith
-- 🎓 Masters in Information Systems at Northeastern University, Boston
-- 💼 Cloud Architect Co-op at Massachusetts State Lottery
-- 💬 Talk to me about Platform Engineering, DevSecOps, and Software Development
+- 👋 Hi, I’m Sujith<br/>
+- 🎓 Masters in Information Systems at Northeastern University, Boston<br/>
+- 💼 Cloud Architect Co-op at Massachusetts State Lottery<br/>
+- 💬 Talk to me about Platform Engineering, DevSecOps, and Software Development<br/>
 <br/>
 <h2> Certifications 
 </h2>
