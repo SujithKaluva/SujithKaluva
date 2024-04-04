@@ -14,6 +14,7 @@
     <img alt="LeetCode" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsujithkaluva&logo=leetcode&logoColor=yellow">
   </a>
 <br/>
+<br/>
 - 👋 Hi, I’m Sujith<br/>
 - 🎓 Masters in Information Systems at Northeastern University, Boston<br/>
 - 💼 Cloud Architect Co-op at Massachusetts State Lottery<br/>
@@ -23,20 +24,20 @@
 </h2>
 <ul>
 	<a href="https://www.credly.com/badges/880e4246-e009-4314-96c1-a071d0ce8dfe" target="_blank"> 
-      <img alt="HashiCorp Certified: Terraform Associate" src="https://images.credly.com/size/680x680/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" style="width:200px;height:200px;">
+      <img alt="HashiCorp Certified: Terraform Associate" src="https://images.credly.com/size/680x680/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" style="width:100px;height:100px;">
     </a>
 	<a href="https://www.credly.com/badges/960ff4df-bef7-49c0-a51e-609650fc5ec1" target="_blank"> 
-      <img alt="AWS Knowledge: Architecting" src="https://images.credly.com/size/680x680/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png" style="width:200px;height:200px;">
+      <img alt="AWS Knowledge: Architecting" src="https://images.credly.com/size/680x680/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png" style="width:100px;height:100px;">
     </a>
 	<a href="https://www.credly.com/badges/2cd703bd-0392-4a06-922a-563430a68f8e" target="_blank"> 
-      <img alt="AWS Knowledge: Cloud Essentials" src="https://images.credly.com/size/680x680/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png" style="width:200px;height:200px;">
+      <img alt="AWS Knowledge: Cloud Essentials" src="https://images.credly.com/size/680x680/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png" style="width:100px;height:100px;">
     </a>
 	<a href="https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=Fn/PV/8+RNDWy5kv00tEI0a+S+E5C3WTECKOYbsuD8Z31KY7QWz8WBBxqY/YGstO" target="_blank"> 
-      <img alt="Salesforce Certified Associate" src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Associate.png" style="width:200px;height:200px;">
+      <img alt="Salesforce Certified Associate" src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Associate.png" style="width:100px;height:100px;">
     </a>
 
  <a href="https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=Fn/PV/8+RNDWy5kv00tEI0a+S+E5C3WTECKOYbsuD8Z31KY7QWz8WBBxqY/YGstO" target="_blank"> 
-      <img alt="Salesforce Certified Administrator" src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Administrator.png" style="width:200px;height:200px;">
+      <img alt="Salesforce Certified Administrator" src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Administrator.png" style="width:100px;height:100px;">
     </a>
 </ul>
 <br/>
