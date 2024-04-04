@@ -16,9 +16,17 @@
 
 - 👋 Hi, I’m Sujith
 - 🎓 Masters in Information Systems at Northeastern University, Boston
-- 💼 I'm a Cloud Architect Co-op at Massachusetts State Lottery
+- 💼 Cloud Architect Co-op at Massachusetts State Lottery
 - 💬 Talk to me about Platform Engineering, DevSecOps, and Software Development
 - 🎖️ HashiCorp Certified: Terraform Associate | Salesforce Certified Administrator
+
+<h2> Certifications 
+</h2>
+<ul>
+	<a href="https://www.terraform.io/" target="_blank"> 
+      <img alt="HashiCorp Certified: Terraform Associate" src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white">
+    </a>
+    </ul>
 
 <h2> Skills 
     <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
@@ -149,7 +157,7 @@
   </p>
 </details>
 
-<details>
+<!--<details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/SujithKaluva"><img alt="Sujith's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SujithKaluva&custom_title=Sujith's%20Contribution%20Graph&theme=react-dark" /></a>
