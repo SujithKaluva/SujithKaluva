@@ -13,13 +13,12 @@
    <a href="https://leetcode.com/sujithkaluva/" target="_blank">
     <img alt="LeetCode" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsujithkaluva&logo=leetcode&logoColor=yellow">
   </a>
-
+<br/>
 - 👋 Hi, I’m Sujith
 - 🎓 Masters in Information Systems at Northeastern University, Boston
 - 💼 Cloud Architect Co-op at Massachusetts State Lottery
 - 💬 Talk to me about Platform Engineering, DevSecOps, and Software Development
-- 🎖️ HashiCorp Certified: Terraform Associate | Salesforce Certified Administrator
-
+<br/>
 <h2> Certifications 
 </h2>
 <ul>
@@ -29,6 +28,9 @@
 	<a href="https://www.credly.com/badges/960ff4df-bef7-49c0-a51e-609650fc5ec1" target="_blank"> 
       <img alt="AWS Knowledge: Architecting" src="https://images.credly.com/size/680x680/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png" style="width:200px;height:200px;">
     </a>
+	<a href="https://www.credly.com/badges/2cd703bd-0392-4a06-922a-563430a68f8e" target="_blank"> 
+      <img alt="AWS Knowledge: Cloud Essentials" src="https://images.credly.com/size/680x680/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png" style="width:200px;height:200px;">
+    </a>
 	<a href="https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=Fn/PV/8+RNDWy5kv00tEI0a+S+E5C3WTECKOYbsuD8Z31KY7QWz8WBBxqY/YGstO" target="_blank"> 
       <img alt="Salesforce Certified Associate" src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Associate.png" style="width:200px;height:200px;">
     </a>
@@ -37,7 +39,7 @@
       <img alt="Salesforce Certified Administrator" src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Administrator.png" style="width:200px;height:200px;">
     </a>
 </ul>
-
+<br/>
 <h2> Skills 
     <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 </h2>
