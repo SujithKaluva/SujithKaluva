@@ -24,7 +24,7 @@
 </h2>
 <ul>
 	<a href="https://www.credly.com/badges/880e4246-e009-4314-96c1-a071d0ce8dfe" target="_blank"> 
-      <img alt="HashiCorp Certified: Terraform Associate" src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terrafor&logoColor=white">
+      <img alt="HashiCorp Certified: Terraform Associate" src="https://images.credly.com/size/340x340/images/351d8b7e-b8a0-45bd-b3f1-cf09f24d68bb/HashiCorp_Certified_Terraform_Associate.png" style="width:200px;height:200px;">
     </a>
     </ul>
 
